@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Python"
+version = "0.1.0"
+description = "DataScience"
+authors = [
+  {name = "Anil", email = "anilceylan1652@gmail.com"}
+]
+dependencies = []
